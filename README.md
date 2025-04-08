@@ -36,4 +36,4 @@ Jika Anda ingin berkontribusi pada pengembangan plugin ini, silakan buat fork re
 
 ## Lisensi
 
-GPL-2.0+
+GPL-3.0+
