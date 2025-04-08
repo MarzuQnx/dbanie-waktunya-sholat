@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Dbanie Waktunya Sholat 1.0.0\n"
 "Report-Msgid-Bugs-To: dbanie@gmail.com\n"
 "POT-Creation-Date: 2025-04-08 16:44+0700\n"
-"PO-Revision-Date: 2025-04-08 16:44+0700\n"
+"PO-Revision-Date: 2025-04-08 17:44+0700\n"
 "Last-Translator: dbanie <dbanie@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -28,18 +28,6 @@ msgstr "Pengaturan Waktu Sholat"
 #: dbanie-waktunya-sholat.php:44
 msgid "Waktu Sholat"
 msgstr "Waktu Sholat"
-
-#: includes/admin/class-dbanie-waktunya-sholat-admin.php:31
-msgid "Pengaturan Waktu Sholat"
-msgstr "Pengaturan Waktu Sholat"
-
-#: includes/admin/class-dbanie-waktunya-sholat-admin.php:32
-msgid "Waktu Sholat"
-msgstr "Waktu Sholat"
-
-#: includes/admin/views/settings-page.php:15
-msgid "Pengaturan Waktu Sholat"
-msgstr "Pengaturan Waktu Sholat"
 
 #: includes/admin/views/settings-page.php:24
 msgid "Lintang"
@@ -154,10 +142,5 @@ msgid "Lihat daftar metode perhitungan"
 msgstr "Lihat daftar metode perhitungan"
 
 #: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:55
-#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:69
-#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:83
-#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:97
-#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:111
-#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:125
 msgid "Gagal memuat"
 msgstr "Gagal memuat"
