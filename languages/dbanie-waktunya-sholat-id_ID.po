@@ -1,0 +1,163 @@
+# Copyright (C) 2025 dbanie
+# This file is distributed under the same license as the Dbanie Waktunya Sholat package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dbanie Waktunya Sholat 1.0.0\n"
+"Report-Msgid-Bugs-To: dbanie@gmail.com\n"
+"POT-Creation-Date: 2025-04-08 16:44+0700\n"
+"PO-Revision-Date: 2025-04-08 16:44+0700\n"
+"Last-Translator: dbanie <dbanie@gmail.com>\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Keywords: __;_e;_n:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c\n"
+"X-Poedit-SearchPath: .\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Style: compact\n"
+"X-Poedit-Language: Indonesian\n"
+
+#: dbanie-waktunya-sholat.php:43
+msgid "Pengaturan Waktu Sholat"
+msgstr "Pengaturan Waktu Sholat"
+
+#: dbanie-waktunya-sholat.php:44
+msgid "Waktu Sholat"
+msgstr "Waktu Sholat"
+
+#: includes/admin/class-dbanie-waktunya-sholat-admin.php:31
+msgid "Pengaturan Waktu Sholat"
+msgstr "Pengaturan Waktu Sholat"
+
+#: includes/admin/class-dbanie-waktunya-sholat-admin.php:32
+msgid "Waktu Sholat"
+msgstr "Waktu Sholat"
+
+#: includes/admin/views/settings-page.php:15
+msgid "Pengaturan Waktu Sholat"
+msgstr "Pengaturan Waktu Sholat"
+
+#: includes/admin/views/settings-page.php:24
+msgid "Lintang"
+msgstr "Lintang"
+
+#: includes/admin/views/settings-page.php:26
+msgid "Masukkan lintang lokasi (contoh: -6.2088)."
+msgstr "Masukkan lintang lokasi (contoh: -6.2088)."
+
+#: includes/admin/views/settings-page.php:30
+msgid "Bujur"
+msgstr "Bujur"
+
+#: includes/admin/views/settings-page.php:32
+msgid "Masukkan bujur lokasi (contoh: 106.8456)."
+msgstr "Masukkan bujur lokasi (contoh: 106.8456)."
+
+#: includes/admin/views/settings-page.php:36
+msgid "Metode Perhitungan"
+msgstr "Metode Perhitungan"
+
+#: includes/admin/views/settings-page.php:38
+msgid "Muslim World League"
+msgstr "Liga Muslim Dunia"
+
+#: includes/admin/views/settings-page.php:39
+msgid "Islamic Society of North America (ISNA)"
+msgstr "Persatuan Islam Amerika Utara (ISNA)"
+
+#: includes/admin/views/settings-page.php:40
+msgid "Egyptian General Authority of Survey"
+msgstr "Otoritas Survei Umum Mesir"
+
+#: includes/admin/views/settings-page.php:41
+msgid "Umm Al-Qura University, Makkah"
+msgstr "Universitas Umm Al-Qura, Mekkah"
+
+#: includes/admin/views/settings-page.php:42
+msgid "University of Islamic Sciences, Karachi"
+msgstr "Universitas Ilmu Islam, Karachi"
+
+#: includes/admin/views/settings-page.php:43
+msgid "Institute of Geophysics, University of Tehran"
+msgstr "Institut Geofisika, Universitas Teheran"
+
+#: includes/admin/views/settings-page.php:44
+msgid "Shia Ithna-Ashari, Leva Institute, Qum"
+msgstr "Syiah Itsna Asy'ari, Institut Leva, Qum"
+
+#: includes/admin/views/settings-page.php:45
+msgid "Gulf Region"
+msgstr "Wilayah Teluk"
+
+#: includes/admin/views/settings-page.php:46
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: includes/admin/views/settings-page.php:47
+msgid "Qatar"
+msgstr "Qatar"
+
+#: includes/admin/views/settings-page.php:48
+msgid "Majlis Ugama Islam Singapura, Singapore"
+msgstr "Majelis Ugama Islam Singapura, Singapura"
+
+#: includes/admin/views/settings-page.php:49
+msgid "Union Organization islamic de France"
+msgstr "Organisasi Persatuan Islam Prancis"
+
+#: includes/admin/views/settings-page.php:50
+msgid "Diyanet İşleri Başkanlığı, Turkey"
+msgstr "Direktorat Urusan Agama, Turki"
+
+#: includes/admin/views/settings-page.php:51
+msgid "Spiritual Administration of Muslims of Russia"
+msgstr "Administrasi Spiritual Muslim Rusia"
+
+#: includes/admin/views/settings-page.php:52
+msgid "Moonsighting Committee"
+msgstr "Komite Pengamatan Hilal"
+
+#: includes/admin/views/settings-page.php:53
+msgid "Dubai, UAE"
+msgstr "Dubai, UEA"
+
+#: includes/admin/views/settings-page.php:54
+msgid "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+msgstr "Departemen Kemajuan Islam Malaysia (JAKIM)"
+
+#: includes/admin/views/settings-page.php:55
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: includes/admin/views/settings-page.php:56
+msgid "Algeria"
+msgstr "Aljazair"
+
+#: includes/admin/views/settings-page.php:57
+msgid "Kementerian Agama Republik Indonesia"
+msgstr "Kementerian Agama Republik Indonesia"
+
+#: includes/admin/views/settings-page.php:58
+msgid "Morocco"
+msgstr "Maroko"
+
+#: includes/admin/views/settings-page.php:59
+msgid "Comunidate Islamica de Lisboa (Portugal)"
+msgstr "Komunitas Islam Lisboa (Portugal)"
+
+#: includes/admin/views/settings-page.php:60
+msgid "Lihat daftar metode perhitungan"
+msgstr "Lihat daftar metode perhitungan"
+
+#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:55
+#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:69
+#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:83
+#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:97
+#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:111
+#: includes/core/class-dbanie-waktunya-sholat-shortcodes.php:125
+msgid "Gagal memuat"
+msgstr "Gagal memuat"
