@@ -72,21 +72,21 @@ class Dbanie_Waktunya_Sholat_Admin
         add_settings_field(
             'latitude', // ID
             __('Lintang', 'dbanie-waktunya-sholat'), // Title
-            array($this, 'latitude_field_callback'), // Callback function to render the field
+            array($this, 'latitude_field_callback'), // Callback
             'dbanie-waktunya-sholat', // Page slug
             'location_settings' // Section ID
         );
         add_settings_field(
             'longitude', // ID
             __('Bujur', 'dbanie-waktunya-sholat'), // Title
-            array($this, 'longitude_field_callback'), // Callback function to render the field
+            array($this, 'longitude_field_callback'), // Callback
             'dbanie-waktunya-sholat', // Page slug
             'location_settings' // Section ID
         );
         add_settings_field(
             'method', // ID
             __('Metode Perhitungan', 'dbanie-waktunya-sholat'), // Title
-            array($this, 'method_field_callback'), // Callback function to render the field
+            array($this, 'method_field_callback'), // Callback
             'dbanie-waktunya-sholat', // Page slug
             'location_settings' // Section ID
         );
