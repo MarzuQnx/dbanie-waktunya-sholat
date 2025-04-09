@@ -4,7 +4,7 @@
  * Plugin Name: Dbanie Waktunya Sholat
  * Plugin URI: https://github.com/MarzuQnx/dbanie-waktunya-sholat
  * Description: Menampilkan waktu sholat berdasarkan lokasi yang ditentukan di halaman pengaturan admin menggunakan shortcode.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: dbanie
  * Author URI: https://marzqunx.com
  * License: GPL-2.0+
