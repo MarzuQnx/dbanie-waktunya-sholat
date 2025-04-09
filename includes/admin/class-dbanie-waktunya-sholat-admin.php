@@ -105,12 +105,4 @@ class Dbanie_Waktunya_Sholat_Admin
             wp_enqueue_style('dbanie-waktunya-sholat-admin', DBANIE_WAKTUNYA_SHOLAT_PLUGIN_URL . 'assets/css/dbanie-waktunya-sholat-admin.css', array(), '1.0.0');
         }
     }
-
-    /**
-     * Renders the settings page.
-     */
-    public function settings_page()
-    {
-        require_once DBANIE_WAKTUNYA_SHOLAT_PLUGIN_PATH . 'includes/admin/views/settings-page.php';
-    }
 }
